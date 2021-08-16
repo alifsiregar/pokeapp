@@ -34,7 +34,7 @@ All of the pages are stored in `pages`. Inside, there is an `index.ts` file wher
 
 ## Deployment and Workflow
 
-This project is deployed to github pages and can be accessed [here](https://alifsiregar.github.io/responsive-menu-bar/). The workflow consists of 4 steps:
+This project is deployed to github pages and can be accessed [here](https://alifsiregar.github.io/pokeapp/). The workflow consists of 4 steps:
 
 1. `Install Dependencies`
 2. `Run Test`

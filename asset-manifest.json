@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pokeapp/static/js/main.e66621f3.chunk.js",
+    "main.js.map": "/pokeapp/static/js/main.e66621f3.chunk.js.map",
+    "runtime-main.js": "/pokeapp/static/js/runtime-main.99805f40.js",
+    "runtime-main.js.map": "/pokeapp/static/js/runtime-main.99805f40.js.map",
+    "static/js/2.3d042177.chunk.js": "/pokeapp/static/js/2.3d042177.chunk.js",
+    "static/js/2.3d042177.chunk.js.map": "/pokeapp/static/js/2.3d042177.chunk.js.map",
+    "index.html": "/pokeapp/index.html",
+    "static/js/2.3d042177.chunk.js.LICENSE.txt": "/pokeapp/static/js/2.3d042177.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99805f40.js",
+    "static/js/2.3d042177.chunk.js",
+    "static/js/main.e66621f3.chunk.js"
+  ]
+}

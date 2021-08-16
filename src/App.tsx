@@ -11,7 +11,7 @@ function App() : JSX.Element {
       <Global
         styles={GlobalStyles}
       />
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
           {routes.map((route) => (
